@@ -10,3 +10,5 @@ Cargo.lock
 **/*.rs.bk
 
 /rust/serialize/target
+
+/cpp/.idea
