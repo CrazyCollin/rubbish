@@ -12,3 +12,5 @@ Cargo.lock
 /rust/serialize/target
 
 /cpp/.idea
+
+/frontend/.idea
